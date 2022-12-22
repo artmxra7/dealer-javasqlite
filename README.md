@@ -1,4 +1,4 @@
-# dealer-javasqlite
+# Aplikasi Dealer
 Tugas Kelompok 5 Aplikasi Dealer CRUD SQLite
 Anggota : 
 1. Muhammad Azmi Fauzi
